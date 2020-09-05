@@ -1,5 +1,0 @@
-FROM busybox:latest
-# Author: Dr. Peter
-MAINTAINER Dr. Peter <peterindia@gmail.com>
-# Set entrypoint command
-ENTRYPOINT ["echo", "Dockerfile ENTRYPOINT demo"]
